@@ -20,7 +20,7 @@ Brain tumor segmentation seeks to separate healthy tissue from tumorous regions 
 
 ## Dataset
 
-All MRI data was provided by the [2015 MICCAI BraTS Challenge](http://www.braintumorsegmentation.org),but i find here (https://www.kaggle.com/datasets/xxc025/brats2015)
+All MRI data was provided by the [2015 MICCAI BraTS Challenge](http://www.braintumorsegmentation.org),but i find here [KAGGLE](https://www.kaggle.com/datasets/xxc025/brats2015)
 
 
 ## MRI Background
