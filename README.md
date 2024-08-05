@@ -1,6 +1,8 @@
 # Automatic Brain Tumor Segmentation
 
-Note: This project is currently ACTIVE.(by Rian)
+Note: This project is currently ACTIVE 08/05/2024.(by Rian)
+
+I rework all code to new 
 
 Brain tumor segmentation seeks to separate healthy tissue from tumorous regions such as the advancing tumor, necrotic core and surrounding edema. This is an essential step in diagnosis and treatment planning, both of which need to take place quickly in the case of a malignancy in order to maximize the likelihood of successful treatment. Due to the slow and tedious nature of manual segmentation, there is a high demand for computer algorithms that can do this quickly and accurately.
 
