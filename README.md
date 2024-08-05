@@ -4,20 +4,6 @@ Note: This project is currently ACTIVE.(by Rian)
 
 Brain tumor segmentation seeks to separate healthy tissue from tumorous regions such as the advancing tumor, necrotic core and surrounding edema. This is an essential step in diagnosis and treatment planning, both of which need to take place quickly in the case of a malignancy in order to maximize the likelihood of successful treatment. Due to the slow and tedious nature of manual segmentation, there is a high demand for computer algorithms that can do this quickly and accurately.
 
-## Table of Contents
-1. [Dataset](#dataset)
-2. [MRI Background](#mri-background)
-    * [MRI Pre-Processing](#mri-pre-processing)
-    * [Pulse Sequences](#pulse-sequences)
-    * [Segmentation](#segmentation)
-3. [High Grade Gliomas](#high-grade-gliomas)
-4. [Convolutional Neural Networks](#convolutional-neural-networks)
-    * [Model Architecture](#model-architecture)
-    * [Training the Model](#training-the-model)  
-    * [Patch Selection](#patch-selection)
-    * [Results](#results)
-5. [Future Directions](#future-directions)
-
 ## Dataset
 
 All MRI data was provided by the [2015 MICCAI BraTS Challenge](http://www.braintumorsegmentation.org),but i find here [KAGGLE](https://www.kaggle.com/datasets/xxc025/brats2015)
